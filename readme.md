@@ -1,3 +1,15 @@
+Also 4science.be and 1percent.us
+
+A post apocolyptic dystopian perspective on the future of science in America (USA, need Eisenhower quote
+about tbe "military industrial complex" and a ref to "The Merchants of War"):
+
+Federal funding of science shall be restricted to national defense needs and all such work shall be classified.
+Any other types of basic science research shall not (by law) be funded by tax payers, but may be funded privately,
+and must be for profit. Any private research that leads to potential national security benefits must be converted
+to classified trade secret status and shared with a designated Federal gov. lab. Any private research that does not
+yield a marketable and profitable result with 10 years must be abandoned, and all related materials confiscated into
+Federal management.
+
 https://github.com/zebra-lucky/electrum-zcash
 https://zcash.flypool.org/start/
 https://www.zfnd.org/blog/eng-roadmap-2020/#a-new-architecture-for-zebra
