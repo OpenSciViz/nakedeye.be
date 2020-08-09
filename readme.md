@@ -13,7 +13,6 @@ Federal management.
 https://github.com/zebra-lucky/electrum-zcash
 https://zcash.flypool.org/start/
 https://www.zfnd.org/blog/eng-roadmap-2020/#a-new-architecture-for-zebra
-https://www.zfnd.org/blog/eng-roadmap-2020/#a-new-architecture-for-zebra
 https://www.coindesk.com/zcash-latest-hard-fork-heartwood-makes-mining-private
 https://www.cranecurrency.com/careers/en-us/malta-page.html
 https://earthsky.org/tonight/can-you-see-the-different-colors-of-the-stars
